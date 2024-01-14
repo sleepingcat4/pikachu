@@ -18,13 +18,13 @@ Despite the challenges, I have made significant progress through multiple Open S
 
 #### Highlights
 
-1. Open Listen
-2. Open Nougat
+1. [Open Listen](https://pypi.org/project/open2listen/)
+2. [Open Nougat](https://pypi.org/project/nougatop/)
 3. Cyclic LLM (In-progress)
-4. Flask-K (In-progress)
+4. [Flask-K (In-progress)](https://github.com/sleepingcat4/wasteclassification)
 5. Datasets
-6. Scrap 4Chan
-7. meta-translate
+6. [Scrap 4Chan](https://pypi.org/project/scap4chan/)
+7. [meta-translate](https://pypi.org/project/meta-translate/) 
 
 Above mentioned a few are in-progress and rest are available online. 
 
@@ -32,8 +32,8 @@ Above mentioned a few are in-progress and rest are available online.
 
 Datasets is a standalone technical project rather than an Initiative to release 200GB of high-quality and exotic domain datasets. We have already made significant strides and provide 2 High-quality datasets. 
 
-1. Ox-Debate
-2. 8Kun (Images and Embeddings)
+1. [Ox-Debate](https://www.kaggle.com/datasets/sleepingcat4/ox-debate)
+2. [8Kun (Images and Embeddings)](https://www.kaggle.com/datasets/sleepingcat4/cam-links)
 
 ### Comments
 
